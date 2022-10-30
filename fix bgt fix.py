@@ -6,7 +6,7 @@ from tkinter import *
 from tkinter import ttk
 from tkinter.messagebox import showinfo
 
-slot = ["slot"]*5
+slot = ["slot"]*50
 arr_karcis_motor = [] 
 arr_karcis_mobil = []
 waktu_mulai_mobil = []
